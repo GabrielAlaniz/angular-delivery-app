@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "elBuenSabor"
+    }
+  },
+  "defaultProject": "elBuenSabor",
+  "cli": {
+    "analytics": "65fca8d5-b631-4320-97a8-34a62d8f2f1c"
+  }
 }
